@@ -1,0 +1,404 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:nChbQDR_pNo2fuHv98NPE
+SUMMARY:НиД (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T080000
+DTEND:20240905T093000
+DESCRIPTION:5705\, Колесов Николай Викторович\nНадежность и диагностика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:GGtvQygsu-sXEv946QOn9
+SUMMARY:НиД (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T080000
+DTEND:20240912T093000
+DESCRIPTION:5705\, Колесов Николай Викторович\nНадежность и диагностика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:ophKHPoOkVuLRla3djDeV
+SUMMARY:НиД (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T095000
+DTEND:20240912T112000
+DESCRIPTION:5705\, Колесов Николай Викторович\nНадежность и диагностика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:5TrUrPazYQHvV9kkkH5er
+SUMMARY:ПАБМ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T114000
+DTEND:20240905T131000
+DESCRIPTION:5705\, Беляев Яков Валерьевич\nПроектирование аналоговых блоков
+	 микросистем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:xl8oE9pwNwV5qoAxawABf
+SUMMARY:ПАБМ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T095000
+DTEND:20240905T112000
+DESCRIPTION:5705\, Беляев Яков Валерьевич\nПроектирование аналоговых блоков
+	 микросистем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:B0FIZAOsgY9_VtbvMEqzb
+SUMMARY:ПРСНК (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T134000
+DTEND:20240905T151000
+DESCRIPTION:5705\, Шарагина Наталья Сергеевна\nПроектирование реконфигуриру
+	емых систем на кристалле
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Mz9dLHs8gtwfC_oCqYWwZ
+SUMMARY:ПАБМ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T114000
+DTEND:20240912T131000
+DESCRIPTION:5705\, Беляев Яков Валерьевич\nПроектирование аналоговых блоков
+	 микросистем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:lhpzSU6vrEtaqcgu0Fzpg
+SUMMARY:ПРСНК (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T134000
+DTEND:20240912T151000
+DESCRIPTION:5705\, Шарагина Наталья Сергеевна\nПроектирование реконфигуриру
+	емых систем на кристалле
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:3BdYg46CDjcox1B8PgZmO
+SUMMARY:ПРСНК (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T153000
+DTEND:20240912T170000
+DESCRIPTION:5705\, Шарагина Наталья Сергеевна\nПроектирование реконфигуриру
+	емых систем на кристалле
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:5srd6p8n0vok2wtcta-Zp
+SUMMARY:ПРСНК (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T153000
+DTEND:20240905T170000
+DESCRIPTION:5705\, Шарагина Наталья Сергеевна\nПроектирование реконфигуриру
+	емых систем на кристалле
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:wNeR-DJpYrtifPJ_23gP7
+SUMMARY:ПРСНК (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T172000
+DTEND:20240912T185000
+DESCRIPTION:5705\, Шарагина Наталья Сергеевна\nПроектирование реконфигуриру
+	емых систем на кристалле
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:2a0Z2insAJeDp2QZsqVKj
+SUMMARY:ПКИМ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T114000
+DTEND:20240910T131000
+DESCRIPTION:2119\, Миронов Сергей Эльмарович\nПерспективные компоненты инфо
+	рмационных микросистем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:V2nUnL1Sg-MK9TAIYxrTD
+SUMMARY:ПКИМ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T134000
+DTEND:20240903T151000
+DESCRIPTION:2129\, Миронов Сергей Эльмарович\nПерспективные компоненты инфо
+	рмационных микросистем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:UN158Ae8jJilSmV7w_J1K
+SUMMARY:ПКИМ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T134000
+DTEND:20240910T151000
+DESCRIPTION:2119\, Миронов Сергей Эльмарович\nПерспективные компоненты инфо
+	рмационных микросистем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:BQpSIMclEJ5ax2B6QG-m9
+SUMMARY:АТПМ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T114000
+DTEND:20240903T131000
+DESCRIPTION:2129\, Миронов Сергей Эльмарович\nАвтоматизация технологическог
+	о проектирования микросистем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:FqSSlgk6hB88c8e74yhDX
+SUMMARY:АТПМ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T095000
+DTEND:20240903T112000
+DESCRIPTION:2129\, Миронов Сергей Эльмарович\nАвтоматизация технологическог
+	о проектирования микросистем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:bhUi7k2OKsCgUSAiZB-iV
+SUMMARY:АТПМ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T095000
+DTEND:20240910T112000
+DESCRIPTION:2129\, Миронов Сергей Эльмарович\nАвтоматизация технологическог
+	о проектирования микросистем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:OGTocg5UJOO-VqJ3N4qT2
+SUMMARY:АСОСиИ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T114000
+DTEND:20240902T131000
+DESCRIPTION:2105\, Курдиков Борис Александрович\nАппаратно-программные сист
+	емы обработки сигналов и изображений
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:GJJMDHTZPMbYm_Oq8sFjr
+SUMMARY:АСОСиИ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T095000
+DTEND:20240902T112000
+DESCRIPTION:2105\, Курдиков Борис Александрович\nАппаратно-программные сист
+	емы обработки сигналов и изображений
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:UnQyj9WvnaKq7KnaD1GbX
+SUMMARY:ИИАС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T134000
+DTEND:20240902T151000
+DESCRIPTION:2130\, Молодцов Владимир Олегович\nИнтерфейсы интегрированных а
+	ппаратно-программных систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:ojzHFJ1SmCuP1iPeO0agV
+SUMMARY:АСОСиИ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T114000
+DTEND:20240909T131000
+DESCRIPTION:2105\, Курдиков Борис Александрович\nАппаратно-программные сист
+	емы обработки сигналов и изображений
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:beop5MFym-mOK5NyuMCzn
+SUMMARY:ИИАС (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T134000
+DTEND:20240909T151000
+DESCRIPTION:2130\, Молодцов Владимир Олегович\nИнтерфейсы интегрированных а
+	ппаратно-программных систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:wRhm5EdVwC2hwXWNtxCT0
+SUMMARY:ИИАС (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T153000
+DTEND:20240902T170000
+DESCRIPTION:2130\, Молодцов Владимир Олегович\nИнтерфейсы интегрированных а
+	ппаратно-программных систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:UD0LabIWJaHUxTlXCLvNQ
+SUMMARY:ИЯ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240906T114000
+DTEND:20240906T131000
+DESCRIPTION:Преподаватель не назначен\nИностранный язык\nФорма обучения: Ди
+	станционная
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:wybqBlIU7F4ukRY-xOEfo
+SUMMARY:ИЯ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240913T114000
+DTEND:20240913T131000
+DESCRIPTION:Преподаватель не назначен\nИностранный язык\nФорма обучения: Ди
+	станционная
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+END:VCALENDAR

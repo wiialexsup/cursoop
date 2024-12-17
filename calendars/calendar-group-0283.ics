@@ -1,0 +1,398 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:JAIi8TTXEhjtF59uHJJbe
+SUMMARY:ЦОС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T114000
+DTEND:20240905T131000
+DESCRIPTION:1229\, Сергиенко Александр Борисович\nЦифровая обработка сигнал
+	ов
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:uN6tf4dO7co2nBY_cUCd3
+SUMMARY:ЦОС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T114000
+DTEND:20240912T131000
+DESCRIPTION:1229\, Сергиенко Александр Борисович\nЦифровая обработка сигнал
+	ов
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:ZSeKeL3GrEvr5tnRJssEX
+SUMMARY:ЦОС (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T172000
+DTEND:20240910T185000
+DESCRIPTION:2319\, Мочешников Александр Сергеевич\nЦифровая обработка сигна
+	лов
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:8wgqJ5DE_3GRgnntOOuO1
+SUMMARY:КТиМвЭ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T095000
+DTEND:20240902T112000
+DESCRIPTION:5183\, Зубков Василий Иванович\nКомпьютерные технологии и модел
+	ирование в электронике
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:TzGm1LMXZ4ih30Xus_aFL
+SUMMARY:КТиМвЭ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T095000
+DTEND:20240909T112000
+DESCRIPTION:5275\, Зубков Василий Иванович\nКомпьютерные технологии и модел
+	ирование в электронике
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:1qOVc9AKok33_msbHy-y-
+SUMMARY:КТиМвЭ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T114000
+DTEND:20240902T131000
+DESCRIPTION:5275\, Яковлев Георгий Евгеньевич\nКомпьютерные технологии и мо
+	делирование в электронике
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:s179hVwFtfA4oS3DSNCBg
+SUMMARY:МиН (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T153000
+DTEND:20240903T170000
+DESCRIPTION:5183\, Афанасьев Алексей Валентинович\nМикро- и наносенсорика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:XBOZL34ktcFIT9R6altQZ
+SUMMARY:МиН (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T153000
+DTEND:20240910T170000
+DESCRIPTION:5183\, Афанасьев Алексей Валентинович\nМикро- и наносенсорика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:NdJjGKj3p5xsmKargOVc3
+SUMMARY:МиН (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T134000
+DTEND:20240910T151000
+DESCRIPTION:5178\, Афанасьев Алексей Валентинович\nМикро- и наносенсорика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:CLE1PxMdqNfudxy5Kljgy
+SUMMARY:ОПАИС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240906T134000
+DTEND:20240906T151000
+DESCRIPTION:5256\, Рындин Евгений Адальбертович\nОсновы проектирования анал
+	оговых интегральных схем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:pSAGqc2SfYTwlqcYbfTYN
+SUMMARY:ОПАИС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T134000
+DTEND:20240912T151000
+DESCRIPTION:5183\, Рындин Евгений Адальбертович\nОсновы проектирования анал
+	оговых интегральных схем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:sl6n6DuRUJdzXMH7dxCH3
+SUMMARY:ОПАИС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T134000
+DTEND:20240905T151000
+DESCRIPTION:5183\, Рындин Евгений Адальбертович\nОсновы проектирования анал
+	оговых интегральных схем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:sGihKgYj4p7_yvPC4t9nt
+SUMMARY:ОПАИС (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240913T134000
+DTEND:20240913T151000
+DESCRIPTION:5256\, Рындин Евгений Адальбертович\nОсновы проектирования анал
+	оговых интегральных схем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:-urlhHfw9CEbDrK_Nfy_R
+SUMMARY:МТ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240906T153000
+DTEND:20240906T170000
+DESCRIPTION:5167\, Шаповалов Станислав Владимирович\nМикропроцессорная техн
+	ика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:5nvzjGwjDPtnXXGZcEs3k
+SUMMARY:МТ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240913T153000
+DTEND:20240913T170000
+DESCRIPTION:5167\, Шаповалов Станислав Владимирович\nМикропроцессорная техн
+	ика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:J1HY8PTrm5Fih6s3QfiWN
+SUMMARY:МиН (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T134000
+DTEND:20240903T151000
+DESCRIPTION:5178\, Афанасьев Алексей Валентинович\nМикро- и наносенсорика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:FrX9ujKYckMZpLOIMIgPu
+SUMMARY:ИЯ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T080000
+DTEND:20240902T093000
+DESCRIPTION:3300\, Преподаватель не назначен\nИностранный язык
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:6C4YpL4-yHouvpZsGADyN
+SUMMARY:ИЯ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T080000
+DTEND:20240909T093000
+DESCRIPTION:3300\, Преподаватель не назначен\nИностранный язык
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:8x9N8luhfzS7ojZmOLWKZ
+SUMMARY:ВП (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240907T095000
+DTEND:20240907T112000
+DESCRIPTION:Преподаватель не назначен\nВоенно-морская подготовка
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=SA;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Psv2wdjSjxgh2wmb-TCK_
+SUMMARY:ВП (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240914T095000
+DTEND:20240914T112000
+DESCRIPTION:Преподаватель не назначен\nВоенно-морская подготовка
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=SA;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:euSdMC0-AdaKQ0VLI76kF
+SUMMARY:ОНИ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T153000
+DTEND:20240912T170000
+DESCRIPTION:5419\, Почебут Станислав Николаевич\nОсновы научных исследовани
+	й
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:yB-IiPcK7ZwYyEkWKhY-B
+SUMMARY:МТ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T080000
+DTEND:20240905T093000
+DESCRIPTION:Ухов Андрей Александрович\nМикропроцессорная техника\nФорма обу
+	чения: Онлайн-курс
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:lOu6GlkQvWdk7R0uQ63pK
+SUMMARY:МТ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T080000
+DTEND:20240912T093000
+DESCRIPTION:Ухов Андрей Александрович\nМикропроцессорная техника\nФорма обу
+	чения: Онлайн-курс
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:3HfUI2nuUFe6P58DhSJbB
+SUMMARY:ОНИ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T172000
+DTEND:20240912T185000
+DESCRIPTION:5322\, Пономарёв Андрей Игоревич\nОсновы научных исследований
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:q2CXeJqKVzpq6YSh2ox6r
+SUMMARY:КТиМвЭ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T114000
+DTEND:20240909T131000
+DESCRIPTION:5275\, Яковлев Георгий Евгеньевич\nКомпьютерные технологии и мо
+	делирование в электронике
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+END:VCALENDAR

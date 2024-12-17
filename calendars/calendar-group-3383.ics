@@ -1,0 +1,501 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:pqTh-_fSOaSeg6Kl8hYkx
+SUMMARY:ИЯ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T095000
+DTEND:20240904T112000
+DESCRIPTION:3300\, Преподаватель не назначен\nИностранный язык
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:S4n5j2i6jjOPD5kHoWrvC
+SUMMARY:ИЯ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T095000
+DTEND:20240911T112000
+DESCRIPTION:3300\, Преподаватель не назначен\nИностранный язык
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:69h1SVbe6ow_8mbixhwb4
+SUMMARY:Физкультура (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T134000
+DTEND:20240902T151000
+DESCRIPTION:Преподаватель не назначен\nФизкультура
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:PzYifAH4VRceHiGYNYVdm
+SUMMARY:Физкультура (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T134000
+DTEND:20240909T151000
+DESCRIPTION:Преподаватель не назначен\nФизкультура
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:vEovh4ugr1HD9jSq1vJPw
+SUMMARY:Физкультура (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T114000
+DTEND:20240904T131000
+DESCRIPTION:Преподаватель не назначен\nФизкультура
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:vJ_oYC5qBAcr7FejsPWw_
+SUMMARY:Физкультура (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T114000
+DTEND:20240911T131000
+DESCRIPTION:Преподаватель не назначен\nФизкультура
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:up0ro4CYyn2EXyDGZzmRz
+SUMMARY:Правоведение (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T153000
+DTEND:20240903T170000
+DESCRIPTION:3324\, Гуркин Андрей Борисович\nПравоведение
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:N0-D6UzdjTVnrInt5cTRV
+SUMMARY:Правоведение (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T153000
+DTEND:20240910T170000
+DESCRIPTION:3324\, Гуркин Андрей Борисович\nПравоведение
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:-0mB9AIe0lNxkbsrwgeRg
+SUMMARY:Экономика (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T153000
+DTEND:20240902T170000
+DESCRIPTION:3324\, Ковалик Лариса Николаевна\nЭкономика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:pNKBTjYdk4mCK-3GjTyYP
+SUMMARY:Экономика (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T153000
+DTEND:20240909T170000
+DESCRIPTION:3324\, Ковалик Лариса Николаевна\nЭкономика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:M8AgioX5B0brm18QSTXIG
+SUMMARY:ДМиТИ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T114000
+DTEND:20240903T131000
+DESCRIPTION:3308\, Поздняков Сергей Николаевич\nДискретная математика и тео
+	ретическая информатика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:T3M5XooN2-1xkcpXVhjVB
+SUMMARY:ДМиТИ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T114000
+DTEND:20240910T131000
+DESCRIPTION:3308\, Поздняков Сергей Николаевич\nДискретная математика и тео
+	ретическая информатика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:9fkj3rWYJAFf2WKXBTtb-
+SUMMARY:ОП (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240906T134000
+DTEND:20240906T151000
+DESCRIPTION:3324\, Жангиров Тимур Рафаилович\nОбъектно-ориентированное прог
+	раммирование
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:qn15J3Xf9QM6cnH8EVlfY
+SUMMARY:ОП (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240913T134000
+DTEND:20240913T151000
+DESCRIPTION:3324\, Жангиров Тимур Рафаилович\nОбъектно-ориентированное прог
+	раммирование
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Nz7fw3GbD2xmATDqnxjw3
+SUMMARY:АиСД (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T134000
+DTEND:20240903T151000
+DESCRIPTION:3324\, Калишенко Евгений Леонидович\nАлгоритмы и структуры данн
+	ых
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:540vTJ8Rk4dpGXspEpxFB
+SUMMARY:АиСД (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T134000
+DTEND:20240910T151000
+DESCRIPTION:3324\, Калишенко Евгений Леонидович\nАлгоритмы и структуры данн
+	ых
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:0TPeC2EEFg2wr6AWF_BrB
+SUMMARY:ОЭиС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T134000
+DTEND:20240904T151000
+DESCRIPTION:3324\, Кирьянчиков Владимир Андреевич\nОрганизация ЭВМ и систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:u4uSqeywENHO5l_3YMyhF
+SUMMARY:ОЭиС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T134000
+DTEND:20240911T151000
+DESCRIPTION:3324\, Кирьянчиков Владимир Андреевич\nОрганизация ЭВМ и систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:XIKUsnhV_oudZHAzLfZfn
+SUMMARY:Правоведение (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240913T153000
+DTEND:20240913T170000
+DESCRIPTION:1230\, Нужнов Иван Николаевич\nПравоведение
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:915ZqaFjAn5WaGj-dpeOB
+SUMMARY:Экономика (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240906T153000
+DTEND:20240906T170000
+DESCRIPTION:5205\, Алексеева Ольга Геннадьевна\nЭкономика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:nUQuvBgGH90ndqsmJislD
+SUMMARY:ОЭиС (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T172000
+DTEND:20240903T185000
+DESCRIPTION:3404\, Кирьянчиков Владимир Андреевич\nОрганизация ЭВМ и систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:kn4Qh3jtDGWQWt7KS0ZmO
+SUMMARY:ОЭиС (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T172000
+DTEND:20240910T185000
+DESCRIPTION:3404\, Кирьянчиков Владимир Андреевич\nОрганизация ЭВМ и систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:vcJfX7byRmsZU2KYMr5Aj
+SUMMARY:ОП (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T172000
+DTEND:20240905T185000
+DESCRIPTION:3404\, Романенко Сергей Александрович\nОбъектно-ориентированное
+	 программирование
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:LZWF-0FfYh_EM_E1XIo-F
+SUMMARY:ОП (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T172000
+DTEND:20240912T185000
+DESCRIPTION:3404\, Романенко Сергей Александрович\nОбъектно-ориентированное
+	 программирование
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:wC0Q1GwOMV4oEqqxYDUka
+SUMMARY:АиСД (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T153000
+DTEND:20240904T170000
+DESCRIPTION:3413\, Шестопалов Роман Павлович\nАлгоритмы и структуры данных
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:BjTEVG-x0cejrmKhEDjje
+SUMMARY:АиСД (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T153000
+DTEND:20240911T170000
+DESCRIPTION:3413\, Шестопалов Роман Павлович\nАлгоритмы и структуры данных
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:q3AT0Drh_YQpe6uy4eo2d
+SUMMARY:ВвРСИИ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T134000
+DTEND:20240905T151000
+DESCRIPTION:3425\, Филатов Антон Юрьевич\nВведение в разработку систем иску
+	сственного интеллекта
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:jwePpl5NIRWbF9nPO6p-K
+SUMMARY:ВвРСИИ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T134000
+DTEND:20240912T151000
+DESCRIPTION:3425\, Филатов Антон Юрьевич\nВведение в разработку систем иску
+	сственного интеллекта
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:DpUGfEh3Wh4OJb3aRd5QT
+SUMMARY:ДМиТИ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240906T172000
+DTEND:20240906T185000
+DESCRIPTION:4210\, Малютин Егор Владимирович\nДискретная математика и теоре
+	тическая информатика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:P4Hn2r8jB_8LaGjfaMg9J
+SUMMARY:ДМиТИ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240913T172000
+DTEND:20240913T185000
+DESCRIPTION:4210\, Малютин Егор Владимирович\nДискретная математика и теоре
+	тическая информатика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:pltXLiKApAdCS-jt3g_Vm
+SUMMARY:ВвРСИИ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T153000
+DTEND:20240905T170000
+DESCRIPTION:3413\, Филатов Антон Юрьевич\nВведение в разработку систем иску
+	сственного интеллекта
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:gzoqLvQ4VBDYt2KvtBEoD
+SUMMARY:ВвРСИИ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T153000
+DTEND:20240912T170000
+DESCRIPTION:3413\, Филатов Антон Юрьевич\nВведение в разработку систем иску
+	сственного интеллекта
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,550 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:x8S3QF6FdU3j0eFvjNI3Q
+SUMMARY:АЭ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240913T080000
+DTEND:20240913T093000
+DESCRIPTION:Московчук Любовь Сергеевна / Пирайнен Евгения Викторовна\nАкаде
+	мическая этика\nФорма обучения: Онлайн-курс
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:LDX8YCXX3bpD8nUvBwDl2
+SUMMARY:АЭ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240913T095000
+DTEND:20240913T112000
+DESCRIPTION:Московчук Любовь Сергеевна / Пирайнен Евгения Викторовна\nАкаде
+	мическая этика\nФорма обучения: Онлайн-курс
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:c8EmLhaPgh0VS1UZfu7E-
+SUMMARY:АЭ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240906T080000
+DTEND:20240906T093000
+DESCRIPTION:Московчук Любовь Сергеевна / Пирайнен Евгения Викторовна\nАкаде
+	мическая этика\nФорма обучения: Онлайн-курс
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:r0KahkbviyqKT8ipBF-bt
+SUMMARY:МИвКиПС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240914T095000
+DTEND:20240914T112000
+DESCRIPTION:6209\, Тэор Татьяна Робертовна\nМаркетинговые исследования в ко
+	ммерческой и производственной сфере
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=SA;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:13vpZQHuSoC8S9MhoDaHf
+SUMMARY:ОБ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240907T114000
+DTEND:20240907T131000
+DESCRIPTION:6209\, Тэор Татьяна Робертовна\nОсновы брендинга
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=SA;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:es5nMy9h_QeoO3dnKWdPV
+SUMMARY:ОБ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240914T114000
+DTEND:20240914T131000
+DESCRIPTION:6209\, Тэор Татьяна Робертовна\nОсновы брендинга
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=SA;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:C_Y0zwgl9CInWmt4maJCv
+SUMMARY:Правоведение (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T114000
+DTEND:20240904T131000
+DESCRIPTION:6308\, Нужнов Иван Николаевич\nПравоведение
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:JnfBdA-HGC_M7VY6TmVYt
+SUMMARY:Правоведение (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T114000
+DTEND:20240911T131000
+DESCRIPTION:6308\, Нужнов Иван Николаевич\nПравоведение
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:blZXo0xaPAjuw4MqFvR4n
+SUMMARY:СА (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T134000
+DTEND:20240905T151000
+DESCRIPTION:6303\, Замотин Максим Павлович\nСоциальная антропология
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:4W9Iwi1M_n3HuyH6i10Bi
+SUMMARY:ПиВВНДиМК (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T134000
+DTEND:20240905T151000
+DESCRIPTION:6206\, Московчук Любовь Сергеевна\nПол и возраст: влияние на де
+	ловую и межличностную коммуникацию
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:O7_l1JnRPXytBD7cfaSAm
+SUMMARY:СА (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T153000
+DTEND:20240905T170000
+DESCRIPTION:6303\, Замотин Максим Павлович\nСоциальная антропология
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:en5pyUnlUcTptc5pAoR3S
+SUMMARY:ПиВВНДиМК (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T153000
+DTEND:20240905T170000
+DESCRIPTION:6206\, Московчук Любовь Сергеевна\nПол и возраст: влияние на де
+	ловую и межличностную коммуникацию
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:DhI5d6_YIZ8-ZuukYnRfh
+SUMMARY:ИК (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T095000
+DTEND:20240911T112000
+DESCRIPTION:6206\, Ильина Ирина Анатольевна\nИнтегрированные коммуникации
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:ETexpreanejZnG0nINp1C
+SUMMARY:ПАЯвКС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T080000
+DTEND:20240905T093000
+DESCRIPTION:6107\, Бабич Янина Алексеевна\nПрофессиональный английский язык
+	 в коммерческой сфере\n\nКомментарий: с 8.50
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:ZDc8velDh2h4FYcawLWre
+SUMMARY:ПАЯвКС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T080000
+DTEND:20240912T093000
+DESCRIPTION:6107\, Бабич Янина Алексеевна\nПрофессиональный английский язык
+	 в коммерческой сфере\n\nКомментарий: с 8.50
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:YniDb21AMy46j9AKwFLbq
+SUMMARY:СП (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240907T095000
+DTEND:20240907T112000
+DESCRIPTION:6208\, Огороднова Анна Михайловна\nСоциальная психология
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=SA;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:KENEJfka0UFc0xPPcyvjE
+SUMMARY:МИвКиПС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T153000
+DTEND:20240903T170000
+DESCRIPTION:6311\, Абабкова Марианна Юрьевна\nМаркетинговые исследования в 
+	коммерческой и производственной сфере
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:S-_WNtNYENA2VbKJ0FJIV
+SUMMARY:ЦК (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T153000
+DTEND:20240904T170000
+DESCRIPTION:6205\, Горячев Алексей Александрович\nЦифровые коммуникации
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Y-hAIEt5UPqqhB9WBJSsz
+SUMMARY:Правоведение (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240907T134000
+DTEND:20240907T151000
+DESCRIPTION:6202\, Новикова Инна Федоровна\nПравоведение
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=SA;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:5GsNpiaGfSxCFTBdO5bgi
+SUMMARY:АЭ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T095000
+DTEND:20240905T112000
+DESCRIPTION:6205\, Московчук Любовь Сергеевна / Пирайнен Евгения Викторовна
+	\nАкадемическая этика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:FKgJdd9IIQjXFhDcnZU3A
+SUMMARY:ПАЯвКС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T095000
+DTEND:20240905T112000
+DESCRIPTION:6107\, Бабич Янина Алексеевна\nПрофессиональный английский язык
+	 в коммерческой сфере
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:o_ZlqXoFtkvrWOhZNYoRa
+SUMMARY:СП (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T095000
+DTEND:20240905T112000
+DESCRIPTION:6201\, Огороднова Анна Михайловна\nСоциальная психология
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:9V6QAlIESw1fhajRnXIiV
+SUMMARY:АЭ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T095000
+DTEND:20240912T112000
+DESCRIPTION:6205\, Московчук Любовь Сергеевна / Пирайнен Евгения Викторовна
+	\nАкадемическая этика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-4r5HM9HDPKHrU5ymnS
+SUMMARY:ПАЯвКС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T095000
+DTEND:20240912T112000
+DESCRIPTION:6107\, Бабич Янина Алексеевна\nПрофессиональный английский язык
+	 в коммерческой сфере
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:vKnZLVCoCFq9aiT51754t
+SUMMARY:СП (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T095000
+DTEND:20240912T112000
+DESCRIPTION:6201\, Огороднова Анна Михайловна\nСоциальная психология
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:VMTUUiSgPET6QfbLhShOa
+SUMMARY:АЭ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T114000
+DTEND:20240905T131000
+DESCRIPTION:6205\, Московчук Любовь Сергеевна / Пирайнен Евгения Викторовна
+	\nАкадемическая этика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:rdC-0nRuFZeaCtDGKRbhy
+SUMMARY:ПАЯвКС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T114000
+DTEND:20240905T131000
+DESCRIPTION:6107\, Бабич Янина Алексеевна\nПрофессиональный английский язык
+	 в коммерческой сфере
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:olxpuyjcBEJDObWt05JIG
+SUMMARY:СП (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T114000
+DTEND:20240905T131000
+DESCRIPTION:6201\, Огороднова Анна Михайловна\nСоциальная психология
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:7K-9czRzNFOM_PxYELHEX
+SUMMARY:АЭ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T114000
+DTEND:20240912T131000
+DESCRIPTION:6205\, Московчук Любовь Сергеевна / Пирайнен Евгения Викторовна
+	\nАкадемическая этика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:9alJOS-fk8pjCku4ykgPg
+SUMMARY:ПАЯвКС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T114000
+DTEND:20240912T131000
+DESCRIPTION:6107\, Бабич Янина Алексеевна\nПрофессиональный английский язык
+	 в коммерческой сфере
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:5nbgO-H5OFiJWsYfQSAwg
+SUMMARY:СП (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T114000
+DTEND:20240912T131000
+DESCRIPTION:6201\, Огороднова Анна Михайловна\nСоциальная психология
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Qj5eeeOsAh0ZyjQfe-fI8
+SUMMARY:ОБ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240907T153000
+DTEND:20240907T170000
+DESCRIPTION:6204\, Тэор Татьяна Робертовна\nОсновы брендинга
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=SA;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:T0Jk8r0AYCvKLma62mm7f
+SUMMARY:ИК (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T134000
+DTEND:20240911T151000
+DESCRIPTION:6308\, Ильина Ирина Анатольевна\nИнтегрированные коммуникации
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:FRxqniC_AyyYoOO4CjSPw
+SUMMARY:ЦК (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T134000
+DTEND:20240904T151000
+DESCRIPTION:6308\, Горячев Алексей Александрович\nЦифровые коммуникации
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:tu9fHCtMiNeX1mN0SWWuE
+SUMMARY:МИвКиПС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T172000
+DTEND:20240903T185000
+DESCRIPTION:6311\, Абабкова Марианна Юрьевна\nМаркетинговые исследования в 
+	коммерческой и производственной сфере
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+END:VCALENDAR

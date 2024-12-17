@@ -1,0 +1,556 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:jU_rHkZk0ETa_zZgESTMz
+SUMMARY:ЭП (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T172000
+DTEND:20240905T185000
+DESCRIPTION:1244\, Козлова Людмила Петровна\nЭлектрический привод
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:IVz02kpO9gWseT4-6CzHp
+SUMMARY:ЭП (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T172000
+DTEND:20240912T185000
+DESCRIPTION:1244\, Козлова Людмила Петровна\nЭлектрический привод
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:ejSUUPFreSbh7D8iiL6nB
+SUMMARY:ЭП (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240907T080000
+DTEND:20240907T093000
+DESCRIPTION:D103\, Королев Виталий Вячеславович\nЭлектрический привод\n\nКо
+	мментарий: до 9-й н.
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=SA;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:dlDSXOGThyCzmLih4kMkA
+SUMMARY:ЭП (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240914T080000
+DTEND:20240914T093000
+DESCRIPTION:D103\, Королев Виталий Вячеславович\nЭлектрический привод\n\nКо
+	мментарий: до 9-й н.
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=SA;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:mIXR5-HZegLRsJfGJnjIi
+SUMMARY:ЭП (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240907T095000
+DTEND:20240907T112000
+DESCRIPTION:D103\, Королев Виталий Вячеславович\nЭлектрический привод\n\nКо
+	мментарий: до 9-й н.
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=SA;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:aXDQSfNGzBElTOi9Dj34g
+SUMMARY:ЭП (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240914T095000
+DTEND:20240914T112000
+DESCRIPTION:D103\, Королев Виталий Вячеславович\nЭлектрический привод\n\nКо
+	мментарий: до 9-й н.
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=SA;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:yZcRXInR8r3agYHHbynXB
+SUMMARY:МТвМиР (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T134000
+DTEND:20240902T151000
+DESCRIPTION:8204\, Копычев Михаил Михайлович\nМикропроцессорная техника в м
+	ехатронике и робототехнике
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:-1XSSxS_yiOLQ_qhNjXGg
+SUMMARY:МТвМиР (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T114000
+DTEND:20240902T131000
+DESCRIPTION:1245\, Копычев Михаил Михайлович\nМикропроцессорная техника в м
+	ехатронике и робототехнике
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:mMYA1Gl1Rh46xxDxji4lq
+SUMMARY:МТвМиР (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T114000
+DTEND:20240909T131000
+DESCRIPTION:1245\, Копычев Михаил Михайлович\nМикропроцессорная техника в м
+	ехатронике и робототехнике
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:cWmwwOj-H3-FVz6OdLRd3
+SUMMARY:МТвМиР (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T134000
+DTEND:20240909T151000
+DESCRIPTION:8204\, Копычев Михаил Михайлович\nМикропроцессорная техника в м
+	ехатронике и робототехнике
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:ghpxVTOiWA-D4qWIplHCJ
+SUMMARY:ТЗ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T114000
+DTEND:20240910T131000
+DESCRIPTION:1244\, Гречухин Михаил Николаевич\nТехническое зрение
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:xNmw71AJhE4Lz_m-tOQk0
+SUMMARY:ТСРС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T153000
+DTEND:20240903T170000
+DESCRIPTION:8103\, Кузнецов Владимир Евгеньевич\nТехнические средства робот
+	отехнических систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:jCgunZY8RB1Z6XAc2JsPr
+SUMMARY:МР (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T134000
+DTEND:20240904T151000
+DESCRIPTION:1301\, Филатов Денис Михайлович\nМобильная робототехника
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:RI6-f4CV_F23Kpg_fC2wV
+SUMMARY:БЖ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T095000
+DTEND:20240904T112000
+DESCRIPTION:5143\, Буканин Владимир Анатольевич\nБезопасность жизнедеятельн
+	ости
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:JZbyk3lYiSYu6t1pNpyc0
+SUMMARY:ТСРС (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T153000
+DTEND:20240910T170000
+DESCRIPTION:8103\, Кузнецов Владимир Евгеньевич\nТехнические средства робот
+	отехнических систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:G3_y7xzRvTQoZQLGxEA_E
+SUMMARY:БЖ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T095000
+DTEND:20240911T112000
+DESCRIPTION:5143\, Буканин Владимир Анатольевич\nБезопасность жизнедеятельн
+	ости
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:abANmL0cF-W1a8NPP3NP-
+SUMMARY:БЖ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T153000
+DTEND:20240902T170000
+DESCRIPTION:5135\, Трусов Александр Олегович\nБезопасность жизнедеятельност
+	и
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:_Pfq_lMrIGV0-ZASK0fH1
+SUMMARY:БЖ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T153000
+DTEND:20240905T170000
+DESCRIPTION:5134\, Иванов Александр Николаевич\nБезопасность жизнедеятельно
+	сти
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:0PzwNMNpDjdtrU5imPqFS
+SUMMARY:БЖ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T153000
+DTEND:20240912T170000
+DESCRIPTION:5134\, Иванов Александр Николаевич\nБезопасность жизнедеятельно
+	сти
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:AwVklAfEXXZjJ6-BrKF5e
+SUMMARY:БЖ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T153000
+DTEND:20240909T170000
+DESCRIPTION:5135\, Трусов Александр Олегович\nБезопасность жизнедеятельност
+	и
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:VMv9Mq2lKoqS7KZ536dcS
+SUMMARY:МР (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T114000
+DTEND:20240904T131000
+DESCRIPTION:1301\, Илатовская Екатерина Вадимовна\nМобильная робототехника
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:ePNSMsTVTwy_YPyKbtmUK
+SUMMARY:МР (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T114000
+DTEND:20240911T131000
+DESCRIPTION:1301\, Илатовская Екатерина Вадимовна\nМобильная робототехника
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:X9Pk42xutjbkOivjBbSoK
+SUMMARY:ТЗ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T095000
+DTEND:20240909T112000
+DESCRIPTION:8203-1\, Федоркова Анастасия Олеговна\nТехническое зрение
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:4P1fIdKtmpnNL0G6rGFcW
+SUMMARY:ТЗ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T095000
+DTEND:20240902T112000
+DESCRIPTION:8203-1\, Федоркова Анастасия Олеговна\nТехническое зрение
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:9S3zPIhkEx58LJa7P-i4N
+SUMMARY:ВП (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240906T095000
+DTEND:20240906T112000
+DESCRIPTION:Преподаватель не назначен\nВоенно-морская подготовка
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:PABRMVkX8IGvAkSY0Wx1D
+SUMMARY:ВП (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240913T095000
+DTEND:20240913T112000
+DESCRIPTION:Преподаватель не назначен\nВоенно-морская подготовка
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:rHwQY0DM0jvyYaNsPmJYv
+SUMMARY:ТСРС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T095000
+DTEND:20240903T112000
+DESCRIPTION:8103\, Кузнецов Владимир Евгеньевич\nТехнические средства робот
+	отехнических систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Zugid6hMGCMtqDt07lyOw
+SUMMARY:ТСРС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T095000
+DTEND:20240910T112000
+DESCRIPTION:8103\, Кузнецов Владимир Евгеньевич\nТехнические средства робот
+	отехнических систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:NN4_dSYQ0sZ0h6I2dSa72
+SUMMARY:ЭП (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T134000
+DTEND:20240911T151000
+DESCRIPTION:2420\, Королев Виталий Вячеславович\nЭлектрический привод
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:B3qJ8DkIJD_Ml_2cy4wJT
+SUMMARY:ОСРВ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T134000
+DTEND:20240903T151000
+DESCRIPTION:7310\, Гречухин Михаил Николаевич\nОперационные системы реально
+	го времени
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:SjtTsRjoh4pooQelKzNSt
+SUMMARY:СПОДРС (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T134000
+DTEND:20240903T151000
+DESCRIPTION:1301\, Масленникова Екатерина Андреевна\nСпециальное программно
+	е обеспечение для робототехнических систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:ZJYnN_d7mtNr6WUFf_jsR
+SUMMARY:ОСРВ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T134000
+DTEND:20240910T151000
+DESCRIPTION:7310\, Гречухин Михаил Николаевич\nОперационные системы реально
+	го времени
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:pRtnmLUFtQdGsARaHozrs
+SUMMARY:СПОДРС (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T134000
+DTEND:20240910T151000
+DESCRIPTION:1301\, Масленникова Екатерина Андреевна\nСпециальное программно
+	е обеспечение для робототехнических систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:5VxZh2h_By34JYG2Rb_0E
+SUMMARY:ОСРВ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T114000
+DTEND:20240903T131000
+DESCRIPTION:8203-1\, Гречухин Михаил Николаевич\nОперационные системы реаль
+	ного времени
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:o4GfuuVf-iLM6AUE4SROu
+SUMMARY:СПОДРС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T114000
+DTEND:20240903T131000
+DESCRIPTION:1230\, Филатов Денис Михайлович\nСпециальное программное обеспе
+	чение для робототехнических систем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+END:VCALENDAR

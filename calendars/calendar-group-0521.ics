@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:aOZqlSc08cKouPFI2sIFw
+SUMMARY:БЖ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T205000
+DTEND:20240903T222000
+DESCRIPTION:5135\, Павлов Владимир Николаевич\nБезопасность жизнедеятельнос
+	ти
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:2af7osUKL7Dd51NbnEyPK
+SUMMARY:БЖ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T190500
+DTEND:20240903T203500
+DESCRIPTION:5143\, Павлов Владимир Николаевич\nБезопасность жизнедеятельнос
+	ти
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:rq1dUyBtC_4M3dzVhb_Us
+SUMMARY:МПАСиК (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T205000
+DTEND:20240902T222000
+DESCRIPTION:5658\, Гапаненок Александра Евгеньевна\nМедицинские приборы\, а
+	ппараты\, системы и комплексы
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:3fMo2ZZwQEJwel7Jy_g0L
+SUMMARY:МПАСиК (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T190500
+DTEND:20240902T203500
+DESCRIPTION:5658\, Садыкова Елена Владимировна\nМедицинские приборы\, аппар
+	аты\, системы и комплексы
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:YN8lPNHwcjOav0kq4s4AR
+SUMMARY:САПиКМТ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240906T190500
+DTEND:20240906T203500
+DESCRIPTION:5662\, Даминова Эмилия Айратовна\nСистемы автоматизированного п
+	роектирования и конструирования медицинской техники
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:q8b6aorJqoJFqGsuYvazO
+SUMMARY:МПАСиК (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T205000
+DTEND:20240909T222000
+DESCRIPTION:5658\, Гапаненок Александра Евгеньевна\nМедицинские приборы\, а
+	ппараты\, системы и комплексы
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:2dc7M9hzez0irbHGJ3Wy0
+SUMMARY:САПиКМТ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240906T205000
+DTEND:20240906T222000
+DESCRIPTION:5662\, Даминова Эмилия Айратовна\nСистемы автоматизированного п
+	роектирования и конструирования медицинской техники
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:18iZAVaJnkYxwjBBFII2G
+SUMMARY:САПиКМТ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240913T205000
+DTEND:20240913T222000
+DESCRIPTION:5662\, Даминова Эмилия Айратовна\nСистемы автоматизированного п
+	роектирования и конструирования медицинской техники
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:FpIUw_8VxpqUklxaM-Bwu
+SUMMARY:ООНИ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T190500
+DTEND:20240904T203500
+DESCRIPTION:5651\, Даминова Эмилия Айратовна\nОсновы организации научных ис
+	следований
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:z14TfuX6Mp0712VN_K-Bf
+SUMMARY:ООНИ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240913T190500
+DTEND:20240913T203500
+DESCRIPTION:5651\, Юлдашев Зафар Мухамедович / Даминова Эмилия Айратовна\nО
+	сновы организации научных исследований
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:qLPdBFVWTim1tBEpXOa1C
+SUMMARY:ОИиИП (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T190500
+DTEND:20240910T203500
+DESCRIPTION:5683\, Болсунов Константин Николаевич\nОтображение информации и
+	 инженерная психология
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Q3QoQH6ZssrsyXZOjdlXE
+SUMMARY:УиЭМТ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T190500
+DTEND:20240911T203500
+DESCRIPTION:5652\, Юлдашев Зафар Мухамедович / Корнеева Инна Павловна\nУзлы
+	 и элементы медицинской техники
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:ivwHyuAVzHXCje-xRZNYZ
+SUMMARY:ОИиИП (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T190500
+DTEND:20240909T203500
+DESCRIPTION:5683\, Болсунов Константин Николаевич\nОтображение информации и
+	 инженерная психология
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:mE5z4H4IpAModnf7UNZbv
+SUMMARY:УиЭМТ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T205000
+DTEND:20240911T222000
+DESCRIPTION:5652\, Корнеева Инна Павловна\nУзлы и элементы медицинской техн
+	ики
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:czi53YyWQOm755RrSJ0tN
+SUMMARY:ПСОБД (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T205000
+DTEND:20240910T222000
+DESCRIPTION:5652\, Машевский Глеб Алексеевич\nПрограммные средства обработк
+	и биомедицинских данных
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Chzpz2m2GjAKn-1MmALY7
+SUMMARY:ПСОБД (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T205000
+DTEND:20240904T222000
+DESCRIPTION:5652\, Машевский Глеб Алексеевич\nПрограммные средства обработк
+	и биомедицинских данных
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+END:VCALENDAR

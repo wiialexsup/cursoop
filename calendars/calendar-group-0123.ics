@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:RtNfmDpneJBHmk-Q-UueI
+SUMMARY:ОКиТРС (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T190500
+DTEND:20240911T203500
+DESCRIPTION:5471\, Суходольский Владислав Юрьевич\nОсновы конструирования и
+	 технологии радиоэлектронных средств
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Y7V_meml7U5X4oY8PeSdw
+SUMMARY:ПиОР (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T190500
+DTEND:20240903T203500
+DESCRIPTION:2316\, Сиротинин Василий Игоревич\nПрием и обработка радиосигна
+	лов
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:qGZKAZd6CIibuPwI1Zi3n
+SUMMARY:ПиОР (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T205000
+DTEND:20240910T222000
+DESCRIPTION:2203\, Сиротинин Василий Игоревич\nПрием и обработка радиосигна
+	лов
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:2ucyOdtZviXEFYuRzMu4A
+SUMMARY:ПиОР (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T190500
+DTEND:20240910T203500
+DESCRIPTION:2316\, Сиротинин Василий Игоревич\nПрием и обработка радиосигна
+	лов
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:-pzT1Hye9aqqJsMKgpWAv
+SUMMARY:ОКПРС (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T205000
+DTEND:20240902T222000
+DESCRIPTION:2320\, Пивоваров Игорь Юрьевич\nОсновы компьютерного проектиров
+	ания радиоэлектронных средств
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:-2BpE12Hr2rBwsU7EPh-2
+SUMMARY:ОКПРС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T190500
+DTEND:20240902T203500
+DESCRIPTION:2316\, Пивоваров Игорь Юрьевич\nОсновы компьютерного проектиров
+	ания радиоэлектронных средств
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:7MiEww9sUhRqZp2s8B8h-
+SUMMARY:ОКиТРС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T190500
+DTEND:20240904T203500
+DESCRIPTION:5471\, Суходольский Владислав Юрьевич\nОсновы конструирования и
+	 технологии радиоэлектронных средств
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:od20GlwEnCUagb61OcKrq
+SUMMARY:ТСПиОИ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T190500
+DTEND:20240912T203500
+DESCRIPTION:2405\, Баранов Павел Сергеевич\nТелевизионные системы передачи 
+	и отображения информации
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:7MHgGW-pulKcv2hHNEpkf
+SUMMARY:ТСПиОИ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T190500
+DTEND:20240905T203500
+DESCRIPTION:2405\, Баранов Павел Сергеевич\nТелевизионные системы передачи 
+	и отображения информации
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:6WLZWj8QLpECackFJS8D1
+SUMMARY:ТСПиОИ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T205000
+DTEND:20240912T222000
+DESCRIPTION:2405\, Баранов Павел Сергеевич\nТелевизионные системы передачи 
+	и отображения информации
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:0rMckJ5YfQocANRg5QVBc
+SUMMARY:ТСПиОИ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T205000
+DTEND:20240905T222000
+DESCRIPTION:2405\, Баранов Павел Сергеевич\nТелевизионные системы передачи 
+	и отображения информации
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:2Mu9Fa14iW6ggNVYG6ZlR
+SUMMARY:ЦОС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T190500
+DTEND:20240909T203500
+DESCRIPTION:Сергиенко Александр Борисович\nЦифровая обработка сигналов\nФор
+	ма обучения: Дистанционная
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:ZwUFpuL3-zaKEO_rCojlb
+SUMMARY:ЦОС (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T205000
+DTEND:20240903T222000
+DESCRIPTION:Сергиенко Александр Борисович\nЦифровая обработка сигналов\nФор
+	ма обучения: Дистанционная
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:2NQ1qNsE083icxaG8mnY5
+SUMMARY:ЦОС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T205000
+DTEND:20240909T222000
+DESCRIPTION:Сергиенко Александр Борисович\nЦифровая обработка сигналов\nФор
+	ма обучения: Дистанционная
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:onfA2_75v1XsYRK1zf466
+SUMMARY:ОКиТРС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T205000
+DTEND:20240904T222000
+DESCRIPTION:5471\, Суходольский Владислав Юрьевич\nОсновы конструирования и
+	 технологии радиоэлектронных средств
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:b0cS01o91GXTNEvxCSTCV
+SUMMARY:ОКиТРС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T205000
+DTEND:20240911T222000
+DESCRIPTION:5471\, Суходольский Владислав Юрьевич\nОсновы конструирования и
+	 технологии радиоэлектронных средств
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+END:VCALENDAR

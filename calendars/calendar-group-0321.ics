@@ -1,0 +1,262 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:uY00nuYCJZaXepT-bLxmq
+SUMMARY:ЗКИ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T190500
+DTEND:20240903T203500
+DESCRIPTION:2113\, Лагутин Максим Геннадьевич\nЗащита компьютерной информац
+	ии
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:tvDRqGRYo9DsyPP_AWmgA
+SUMMARY:ЗКИ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T205000
+DTEND:20240903T222000
+DESCRIPTION:2113\, Лагутин Максим Геннадьевич\nЗащита компьютерной информац
+	ии
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:GY0Q4Rm-fgaq57kYTmELq
+SUMMARY:ЗКИ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T205000
+DTEND:20240910T222000
+DESCRIPTION:2113\, Лагутин Максим Геннадьевич\nЗащита компьютерной информац
+	ии
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:z9ZNBieMKdhCGsRfftuZX
+SUMMARY:ПиРО (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T190500
+DTEND:20240905T203500
+DESCRIPTION:1154\, Кузьмин Сергей Алексеевич\nПроектирование и разработка о
+	нтологий
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:mXWVOskxBNHngO-GaUvpW
+SUMMARY:ПиРО (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T205000
+DTEND:20240905T222000
+DESCRIPTION:1154\, Кузьмин Сергей Алексеевич\nПроектирование и разработка о
+	нтологий
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Vq-26JsWVE6vVSExLeC2-
+SUMMARY:КГ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T190500
+DTEND:20240910T203500
+DESCRIPTION:1155\, Колев Георгий Юрьевич\nКомпьютерная графика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:vbavLOPL07O0Ny-0FQ7IY
+SUMMARY:ПиРО (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T205000
+DTEND:20240912T222000
+DESCRIPTION:1154\, Кузьмин Сергей Алексеевич\nПроектирование и разработка о
+	нтологий
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:uoI_6brH1OkDeHm9cqYlk
+SUMMARY:КГ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240913T190500
+DTEND:20240913T203500
+DESCRIPTION:1155\, Колев Георгий Юрьевич\nКомпьютерная графика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:o2mqE9zP07e2hSawKDL90
+SUMMARY:КГ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240913T205000
+DTEND:20240913T222000
+DESCRIPTION:1155\, Колев Георгий Юрьевич\nКомпьютерная графика
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Gj3bUl1XjzhntJnLNeLRQ
+SUMMARY:ПСБСИС (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240906T190500
+DTEND:20240906T203500
+DESCRIPTION:1156\, Исаков Александр Борисович / Ханов Александр Владимирови
+	ч\nПроектирование сложно-функциональных блоков сверхбольших интегральных с
+	хем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:t_ABP23xVKhkc4kDWo5Zo
+SUMMARY:ПСБСИС (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240906T205000
+DTEND:20240906T222000
+DESCRIPTION:1156\, Исаков Александр Борисович / Ханов Александр Владимирови
+	ч\nПроектирование сложно-функциональных блоков сверхбольших интегральных с
+	хем
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=FR;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:svNjpRAWqLnonzGr7gxlX
+SUMMARY:ВвИИ (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T190500
+DTEND:20240904T203500
+DESCRIPTION:2116\, Пантелеев Михаил Георгиевич\nВведение в искусственный ин
+	теллект
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Kktw-n0lvrJSFnqWAN9Xn
+SUMMARY:ВвИИ (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T205000
+DTEND:20240904T222000
+DESCRIPTION:2116\, Пантелеев Михаил Георгиевич\nВведение в искусственный ин
+	теллект
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:U4H4t8UhskF9of_QUzGUN
+SUMMARY:ОПиПвСL (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T190500
+DTEND:20240911T203500
+DESCRIPTION:2116\, Разумовский Геннадий Васильевич\nОрганизация процессов и
+	 программирование в среде Linux
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:qTvHoU-lKdYMnpd77thbg
+SUMMARY:ОПиПвСL (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T205000
+DTEND:20240911T222000
+DESCRIPTION:2116\, Разумовский Геннадий Васильевич\nОрганизация процессов и
+	 программирование в среде Linux
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:5KaMlEJNXYZruMf-JlpEL
+SUMMARY:ОПиПвСL (Лаб)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T190500
+DTEND:20240912T203500
+DESCRIPTION:2116\, Разумовский Геннадий Васильевич\nОрганизация процессов и
+	 программирование в среде Linux
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,261 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:mMcxlTMtF_bINY99Kk9jD
+SUMMARY:ПРиСсО (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T190500
+DTEND:20240903T203500
+DESCRIPTION:5322\, Строгецкая Елена Витальевна\nПсихология рекламы и связей
+	 с общественностью
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:eGvDxOMADNecd0mxSqbtj
+SUMMARY:ПРиСсО (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240903T205000
+DTEND:20240903T222000
+DESCRIPTION:5322\, Строгецкая Елена Витальевна\nПсихология рекламы и связей
+	 с общественностью
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:xze6OXRCu39wadu_m3ABp
+SUMMARY:Правоведение (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T190500
+DTEND:20240905T203500
+DESCRIPTION:5322\, Максина Светлана Владимировна\nПравоведение
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:JY6e9UViMW-0xHK-5g_Q3
+SUMMARY:Правоведение (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T190500
+DTEND:20240912T203500
+DESCRIPTION:5322\, Максина Светлана Владимировна\nПравоведение
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Q_2u6d4Nc-n9U3q6MBPLF
+SUMMARY:ОРОРиСсО (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T190500
+DTEND:20240902T203500
+DESCRIPTION:6106\, Трубникова Алла Георгиевна\nОрганизация работы отдела ре
+	кламы и связей с общественностью
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:sAprcG93Nnpq__1t_t_IZ
+SUMMARY:ОРОРиСсО (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T190500
+DTEND:20240909T203500
+DESCRIPTION:6106\, Трубникова Алла Георгиевна\nОрганизация работы отдела ре
+	кламы и связей с общественностью
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:jBL7Oqpul0mgvcXVv_uKl
+SUMMARY:ОРОРиСсО (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240909T205000
+DTEND:20240909T222000
+DESCRIPTION:6106\, Трубникова Алла Георгиевна\nОрганизация работы отдела ре
+	кламы и связей с общественностью
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:mCqaVnieGxG9vBo9wKqoq
+SUMMARY:ОРОРиСсО (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240902T205000
+DTEND:20240902T222000
+DESCRIPTION:6106\, Трубникова Алла Георгиевна\nОрганизация работы отдела ре
+	кламы и связей с общественностью
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=MO;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:TbeP2kptAUtQH1X4lVCT1
+SUMMARY:РВвР (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T190500
+DTEND:20240910T203500
+DESCRIPTION:6106\, Горячев Алексей Александрович\nРечевое воздействие в рек
+	ламе
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:mdAPOdKKRo9NkfslAFidL
+SUMMARY:РВвР (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240910T205000
+DTEND:20240910T222000
+DESCRIPTION:6106\, Горячев Алексей Александрович\nРечевое воздействие в рек
+	ламе
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:_97MiFcf5SpoXuMkLjWsF
+SUMMARY:МБ(АЯ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240912T205000
+DTEND:20240912T222000
+DESCRIPTION:5322\, Горячев Алексей Александрович\nМеждународные бизнес-комм
+	уникации (на английском языке)
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:H_45lS7R7mRrP56K8Qwkq
+SUMMARY:ОУПвРиСсО (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240905T205000
+DTEND:20240905T222000
+DESCRIPTION:5322\, Трубникова Алла Георгиевна\nОсновы управления проектами 
+	в рекламе и связях с общественностью
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=TH;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:Zf8hIcrleUapJTxlS1MGI
+SUMMARY:ОУПвРиСсО (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T190500
+DTEND:20240911T203500
+DESCRIPTION:6107\, Трубникова Алла Георгиевна\nОсновы управления проектами 
+	в рекламе и связях с общественностью
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:7QPOlIah6L28Ptr8eKHVA
+SUMMARY:МБ(АЯ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T190500
+DTEND:20240904T203500
+DESCRIPTION:6107\, Горячев Алексей Александрович\nМеждународные бизнес-комм
+	уникации (на английском языке)
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:z9Q_DId4PY-UxLi8hmjk-
+SUMMARY:МБ(АЯ (Пр)
+DTSTAMP:20241124T224900Z
+DTSTART:20240904T205000
+DTEND:20240904T222000
+DESCRIPTION:6107\, Горячев Алексей Александрович\nМеждународные бизнес-комм
+	уникации (на английском языке)
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+BEGIN:VEVENT
+UID:6_Af1pqTee1ufAd1hn_FQ
+SUMMARY:ОУПвРиСсО (Лек)
+DTSTAMP:20241124T224900Z
+DTSTART:20240911T205000
+DTEND:20240911T222000
+DESCRIPTION:6107\, Трубникова Алла Георгиевна\nОсновы управления проектами 
+	в рекламе и связях с общественностью
+GEO:59.9721917;30.3226556
+LOCATION:Санкт-Петербургский государственный электротехнический университет
+	 «ЛЭТИ» им. В.И.Ульянова\, ул. Профессора Попова\, 5\, Санкт-Петербург\, Р
+	оссия\, 197022
+STATUS:CONFIRMED
+CATEGORIES:Обучение,СПбГЭТУ "ЛЭТИ"
+RRULE:INTERVAL=2;WKST=MO;FREQ=WEEKLY;BYDAY=WE;UNTIL=20241231T120000+00:00;
+END:VEVENT
+END:VCALENDAR
